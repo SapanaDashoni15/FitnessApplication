@@ -176,7 +176,7 @@ header p {
   transition: 0.3s;
 }
 .workout_session .wrapper .bootcamps div:hover p {
-  color: whitesmoke;
+  color: pink;
   transition: 0.3s;
 }
 @media (max-width: 1520px) {
