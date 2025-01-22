@@ -18,11 +18,11 @@ const App = () => {
     <Router>
       <Navbar />
       <Hero />
+      <BmiCalc />
       <WorkoutSessions />
       <Gallery />
       <Pricing />
       <Contact />
-      <BmiCalc />
       <Footer />
       <ToastContainer theme="dark" position="top-center" />
     </Router>
