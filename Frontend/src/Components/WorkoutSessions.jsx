@@ -2,7 +2,7 @@ import React from 'react'
 
 const WorkoutSessions = () => {
   return (
-    <section className = "workout_session">
+    <section className = "workout_session" id = "sessions">
       <div className="wrapper">
         <h1>TOP WORKOUT SESSION</h1>
         <p>Discover the ultimate cycling session to burn 500+ calories in under an hour. Push your limits with advanced cardio training, real-time feedback on performance metrics, and motivational music to keep you energized</p>

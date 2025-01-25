@@ -60,6 +60,7 @@ header p {
   display: flex;
   align-items: center;
   gap: 25px;
+  scroll-behavior: smooth;
 }
 .hero .content .buttons button {
   padding: 15px 30px;
@@ -69,11 +70,18 @@ header p {
   background: transparent;
   transition: 0.3s;
 }
+
+/* smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
+
 .hero .content .buttons button:hover {
   cursor: pointer;
   background: #0095ff;
   color: whitesmoke;
   transition: 0.3s;
+  
 }
 @media (max-width: 1050px) {
   .hero {
@@ -203,6 +211,7 @@ header p {
     font-size: 20px;
   }
 }
+
 
 .gallery {
   background: #111;

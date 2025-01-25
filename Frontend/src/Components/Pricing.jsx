@@ -24,7 +24,7 @@ const Pricing = () => {
     },
   ];
   return (
-    <section className="pricing">
+    <section id="pricetag" className="pricing">
       <h1>WELLNESS VAULT FITNESS PLANS</h1>
       <div className="wrapper">
         {pricing.map((element) => {
