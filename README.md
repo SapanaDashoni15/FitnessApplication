@@ -20,13 +20,13 @@ Live link - https://fitness-application-zpwp-az9b8wyot-sapana-dashonis-projects.
 1. Clone the repo 
   - git clone [https://github.com/your-username/gym-fitness-app.git](https://github.com/SapanaDashoni15/FitnessApplication.git)
 
-2. Navigate to client
-  - cd client
+2. Navigate to frontend
+  - cd Frontend
   - npm install
   - npm start
 
-3. Navigate to Server
-  - cd server
+3. Navigate to backend
+  - cd Backend
   - npm install
   - npm run dev
 
